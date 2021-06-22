@@ -12,3 +12,6 @@
 Шаг3: Пуш файлу
 
 ---Приклад роботи програми:
+
+![photo1624397058](https://user-images.githubusercontent.com/86248336/123001433-66adaa80-d3b9-11eb-8b1d-b261bd8a6a96.jpeg)
+
